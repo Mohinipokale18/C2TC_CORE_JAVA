@@ -17,6 +17,6 @@ class Sample3
    {
 	   method_overloading obj = new method_overloading();
        obj.disp('x', 51 );
-       obj.disp(52, 'y');
+       
    }
 }

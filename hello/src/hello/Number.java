@@ -7,7 +7,7 @@ class Number {
     {
         int num=0;
         
-        System.out.println("enter an n");
+       
  
        if (num % 2 == 0) 
        {
